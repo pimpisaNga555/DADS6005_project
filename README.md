@@ -1,6 +1,6 @@
 # DADS6005_project
 
-![S__7118943](https://user-images.githubusercontent.com/113499057/212541708-54cbf9c2-8026-47c0-81e8-fc6b836ce1b9.jpg)
+![S__7118944](https://user-images.githubusercontent.com/113499057/212542067-f85b36f1-4412-4845-9e46-992bb8019b0d.jpg)
 
 ## Workflow process
 
